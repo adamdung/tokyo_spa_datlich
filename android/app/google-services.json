@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171150534967",
+    "project_id": "tokyo-spa",
+    "storage_bucket": "tokyo-spa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171150534967:android:2b49f7df0f646a8071d2b2",
+        "android_client_info": {
+          "package_name": "com.adamdung.tokyo_spa_datlich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171150534967-kni95ikjl5b65agddhfespgp5ad24np1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRBqSWk26-wBP_qbHQPN98rNYz2pGtRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171150534967-kni95ikjl5b65agddhfespgp5ad24np1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
