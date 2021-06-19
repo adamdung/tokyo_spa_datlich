@@ -18,8 +18,8 @@ class Authentification {
       }
     } else {
       throw FirebaseAuthException(
-        message: "Sign in aborded by user",
-        code: "ERROR_ABORDER_BY_USER",
+        message: "Người dùng huỷ đăng nhập",
+        code: "Lỗi người dùng",
       );
     }
   }
